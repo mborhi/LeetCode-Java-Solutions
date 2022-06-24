@@ -4,7 +4,7 @@
 public class Solution {
     /**
      * Finds the longest common prefix amongst all strings in a given array
-     * Time Complexity: O(N + S), where N = the length of the array of strings and S = the length of the shortest string
+     * Time Complexity: O(N*S), where N = the length of the array of strings and S = the length of the shortest string
      * in the given array.
      * <p>
      * Space Complexity: O(1)

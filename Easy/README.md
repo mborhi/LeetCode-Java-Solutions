@@ -2,7 +2,7 @@
 
 ---
 
-| Problem                                                                             | Solution                                             |
+| LeetCode Problem                                                                    | Solution                                             |
 |-------------------------------------------------------------------------------------|------------------------------------------------------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/)                                | [TwoSum.java](TwoSum.java)                           |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)            | [PalindromeNumber.java](PalindromeNumber.java)       |

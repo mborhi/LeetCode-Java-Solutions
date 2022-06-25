@@ -2,5 +2,5 @@
 
 ---
 
-| Problem | Solution |
-|---------|----------|
+| LeetCode Problem | Solution |
+|------------------|----------|

@@ -2,6 +2,6 @@
 
 ---
 
-| Problem                                                              | Solution                                      |
-|----------------------------------------------------------------------|-----------------------------------------------|
-| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [AddTwoNumbers.java](2 A%20ddTwoNumbers.java) |
+| Problem                                                              | Solution                                 |
+|----------------------------------------------------------------------|------------------------------------------|
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [AddTwoNumbers.java](AddTwoNumbers.java) |

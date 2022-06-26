@@ -9,6 +9,6 @@ comments.
 
 | Difficulty                  | Solution Count |
 |-----------------------------|----------------|
-| [Easy](/Easy/README.md)     | 6              |
+| [Easy](/Easy/README.md)     | 7              |
 | [Medium](/Medium/README.md) | 2              |
 | [Hard](/Hard/README.md)     | 0              |

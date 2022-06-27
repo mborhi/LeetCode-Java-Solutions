@@ -11,4 +11,4 @@ comments.
 |-----------------------------|----------------|
 | [Easy](/Easy/README.md)     | 8              |
 | [Medium](/Medium/README.md) | 2              |
-| [Hard](/Hard/README.md)     | 0              |
+| [Hard](/Hard/README.md)     | 1              |

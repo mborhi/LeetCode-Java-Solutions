@@ -5,6 +5,8 @@ public class Solution {
 
     /**
      * Finds the longest palindrome in the given string
+     * For every letter in the given string, a palindrome is extended out from the center.
+     * There are 2N-1 centers, since the center might be in the middle of letters, such as 'ollo'
      * Time Complexity: O(N^2), where N = the length of the given string
      * <p>
      * Space Complexity: O(1)
@@ -16,9 +18,13 @@ public class Solution {
         if (s == null || s.length() < 1) return "";
         int start = 0, end = 0;
         for (int i = 0; i < s.length(); i++) {
+            // first center for palindrome
             int len1 = expandAroundCenter(s, i, i);
+            // second center for palindrme
             int len2 = expandAroundCenter(s, i, i + 1);
+            // choose the longer of the two palindromes
             int len = Math.max(len1, len2);
+            // determine the palindrome substring bounds
             if (len > end - start) {
                 start = i - (len - 1) / 2;
                 end = i + len / 2;
@@ -29,10 +35,12 @@ public class Solution {
 
     private int expandAroundCenter(String s, int left, int right) {
         int L = left, R = right;
+        // expands until it is no longer a palindrome
         while (L >= 0 && R < s.length() && s.charAt(L) == s.charAt(R)) {
             L--;
             R++;
         }
+        // returns the length of the palindrome
         return R - L - 1;
     }
 

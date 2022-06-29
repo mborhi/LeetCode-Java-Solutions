@@ -12,4 +12,5 @@
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                           | [MergeTwoSortedLists.java](MergeTwoSortedLists.java)                         |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [RemoveDuplicatesFromSortedArray.java](RemoveDuplicatesFromSortedArray.java) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/)                                           | [RemoveElement.java](RemoveElement.java)                                     |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [MergeSortedArray.java](MergeSortedArray.java)                               |
 

@@ -13,8 +13,9 @@
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [RemoveDuplicatesFromSortedArray.java](RemoveDuplicatesFromSortedArray.java) |
 | [27. Remove Element](https://leetcode.com/problems/remove-element/)                                           | [RemoveElement.java](RemoveElement.java)                                     |
 | [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)                                 | [LengthOfLastWord.java](LengthOfLastWord.java)                               |
-| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [MergeSortedArray.java](MergeSortedArray.java)                               |                                                                                                             |                                                                              |
+| [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                   | [MergeSortedArray.java](MergeSortedArray.java)                               |
 | [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)             | [BinaryTreeInorderTraversal.java](BinaryTreeInorderTraversal.java)           |
+| [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)              | [MaximumDepthOfBinaryTree.java](MaximumDepthOfBinaryTree.java)               |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                              | [BalancedBinaryTree.java](BalancedBinaryTree.java)                           |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                      | [PathSum.java](PathSum.java)                                                 |
 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)                     | [MaximumUnitsOnATruck.java](MaximumUnitsOnATruck.java)                       |

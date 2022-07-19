@@ -18,6 +18,7 @@
 | [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                          | [SymmetricTree.java](SymmetricTree.java)                                     |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)              | [MaximumDepthOfBinaryTree.java](MaximumDepthOfBinaryTree.java)               |
 | [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                              | [BalancedBinaryTree.java](BalancedBinaryTree.java)                           |
+| [111. Minimum Depth for Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)             | [MinimumDepthOfBinaryTree.java](MinimumDepthOfBinaryTree.java)               |
 | [112. Path Sum](https://leetcode.com/problems/path-sum/)                                                      | [PathSum.java](PathSum.java)                                                 |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                  | [InvertBinaryTree.java](InvertBinaryTree.java)                               |
 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)                     | [MaximumUnitsOnATruck.java](MaximumUnitsOnATruck.java)                       |

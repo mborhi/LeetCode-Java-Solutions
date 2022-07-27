@@ -7,7 +7,8 @@ public class Solution {
      * Creates a Pascal's Triangle with the given number of rows.
      * <p>
      * Time Complexity: O(N^2), where N = the number of rows specified
-     * For each row, values are iterated through from 1 to N - 1, or simplified, N
+     * Each iteration, i, up to the specifed number of rows creates a new List of size i. Traversing this to fill in the
+     * values yields a time complexity of O(N^2).
      * <p>
      * Spaace Complexity: O(N^2), where N = the number of rows specified
      * All of the rows need to be stored, this is guranteed to be N^2

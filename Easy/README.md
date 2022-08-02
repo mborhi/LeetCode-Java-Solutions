@@ -24,5 +24,6 @@
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)        | [BestTimeToBuyAndSellStock.java](BestTimeToBuyAndSellStock.java)             |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                    | [LinkedListCycle.java](LinkedListCycle.java)                                 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/)                                      | [MajorityElement.java](MajorityElement.java)                                 |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                | [ReverseLinkedList.java](ReverseLinkedList.java)                             |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                  | [InvertBinaryTree.java](InvertBinaryTree.java)                               |
 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)                     | [MaximumUnitsOnATruck.java](MaximumUnitsOnATruck.java)                       |

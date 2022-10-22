@@ -26,5 +26,6 @@
 | [169. Majority Element](https://leetcode.com/problems/majority-element/)                                      | [MajorityElement.java](MajorityElement.java)                                 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                | [ReverseLinkedList.java](ReverseLinkedList.java)                             |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                  | [InvertBinaryTree.java](InvertBinaryTree.java)                               |
+| [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                        | [MonotonicArray.java](MonotonicArray.java)                                   |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                          | [UniqueEmailAddresses.java](UniqueEmailAddresses.java)                       |
 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)                     | [MaximumUnitsOnATruck.java](MaximumUnitsOnATruck.java)                       |

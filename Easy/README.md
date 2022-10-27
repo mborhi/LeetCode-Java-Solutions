@@ -29,3 +29,4 @@
 | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)                                        | [MonotonicArray.java](MonotonicArray.java)                                   |
 | [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/)                          | [UniqueEmailAddresses.java](UniqueEmailAddresses.java)                       |
 | [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)                     | [MaximumUnitsOnATruck.java](MaximumUnitsOnATruck.java)                       |
+| [2269. Find the K-Beauty of a Number](https://leetcode.com/problems/find-the-k-beauty-of-a-number/)           | [FindTheK-BeautyOfANumber.java](FindTheK-BeautyOfANumber.java)               |
